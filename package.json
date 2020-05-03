@@ -1,0 +1,20 @@
+{
+  "name": "@swashvirus/vector",
+  "version": "1.0.0",
+  "description": "- A minimalistic vector library written in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swashvirus/vector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swashvirus/vector/issues"
+  },
+  "homepage": "https://github.com/swashvirus/vector#readme"
+}
